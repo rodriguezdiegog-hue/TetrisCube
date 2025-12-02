@@ -1,0 +1,5 @@
+{
+  "name": "TETRISCUBE",
+  "description": "Un juego de rompecabezas híbrido que combina el apilamiento de bloques clásico con un minijuego de ritmo y memoria. Completa líneas para activar el Cubo, sigue la secuencia y avanza a través de 10 niveles de dificultad creciente.",
+  "requestFramePermissions": []
+}
